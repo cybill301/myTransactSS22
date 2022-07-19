@@ -17,7 +17,7 @@ Uses javascript and html, css to display the interface of a banking app without 
 - CSS
 - Javascript
 
-## Back up
+## Back up from Arthur
 
-- JQuery (from Arthur)
-- Bootstrap framework (from Arthur)
+- vendors: JQuery,
+- Bootstrap framework
